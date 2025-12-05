@@ -57,8 +57,8 @@ A fast, parallel UI testing framework with CI integration and Allure reporting.
 ---
 
 ## 📫 Connect With Me
-- **LinkedIn:**[www.linkedin.com/in/delhi-ganesh-v-33b396302]  
-- **Email:** [delhiganeshv1998@gmail.com]
+- **LinkedIn:**www.linkedin.com/in/delhi-ganesh-v-33b396302**
+- **Email:**delhiganeshv1998@gmail.com**
 
 ---
 
